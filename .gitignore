@@ -1,5 +1,4 @@
-/esercizi/*
-!/esercizi/if_e_while.ipynb
-!/esercizi/geometria.ipynb
+/esercizi-base/gioco_impiccato.ipynb
+/esercizi-base/geometria_solida.ipynb
 
-/teoria/machine learning/clustering
+/teoria/machine learning/
